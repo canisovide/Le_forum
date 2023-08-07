@@ -1,0 +1,21 @@
+#td-1 {
+    background-image: url('../img/pexels-andrea-piacquadio-3758105.jpg');
+}
+
+#td-2 {
+    background-image: url('../img/pexels-athena-2081199.jpg');
+}
+
+#td-3 {
+    background-image: url('../img/pexels-sanddollar-634538.jpg');
+}
+
+#td-4 {
+    background-image: url('../img/pexels-athena-2081199.jpg');
+}
+
+.td-style {
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+}

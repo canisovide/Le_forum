@@ -1,0 +1,38 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.dropzone {
+    height: 180px;
+    border: 2px dashed rgb(89, 151, 245);
+    padding: 20px;
+    background-color: rgb(244, 246, 248);
+}
+
+button {
+    padding: 12px;
+    font-size: medium;
+}
+
+.file-liste {
+    background-color: rgb(248, 251, 253);
+    list-style: none;
+}
+
+.file-name {
+    font-size: small;
+}
+
+.x-close {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
